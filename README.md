@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fuad745
+- 👋 Hi, I’m Fuad Ahmed
 - 👀 I’m interested in cross platform development(flutter)
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on any flutter development and LAMP Stack Projects.
+- 🌱 I’m currently learning Java Stack
+- 💞️ I’m looking to collaborate on any flutter and Java Projects.
 - 📫 How to reach me fffuad1974@gmail.com
 
 <!---
