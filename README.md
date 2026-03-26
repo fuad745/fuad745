@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fuad Ahmed
-- 👀 I’m interested in cross platform development(flutter)
-- 🌱 Currently Exploring Laravel 11 Framework
+- 👀 I’m interested in cross platform development(flutter), Full Stack Web Development
+- 🌱 Currently Exploring Laravel 13 Framework
 - 💞️ I’m looking to collaborate on any Flutter and Laravel Projects.
 - 📫 How to reach me fuadahmedt@gmail.com
 
