@@ -39,7 +39,7 @@
 - **🏢 Addis Condo Finder** — a crowdsourced Flutter app for finding condo blocks inside Addis Ababa's big condominium projects, backed by one Laravel app (REST API + Filament moderation panel).
 - **💰 Money Manager** — a polished offline-first Flutter personal-finance app: net worth, debts, upcoming bills, savings goals and stats.
 - **🏭 Bicmakh Pharmaceutical** — a Laravel pharma supply-chain system with inventory forecasting, batch tracking and order automation. → [bicmakh.com](https://bicmakh.com/)
-- **📊 Arse Inc.** — a Laravel + React operations platform handling 1,000+ daily transactions with real-time tracking and automated invoicing. → [arse.parakichner.com](https://arse.parakichner.com/)
+- **📊 AduuTech** — a Laravel + React operations platform handling 1,000+ daily transactions with real-time tracking and automated invoicing. → [aduu.org](https://aduu.org/)
 
 🌱 *Currently going deep on Laravel 13 and Filament, and shipping Telegram Mini Apps.*
 
