@@ -35,9 +35,9 @@
 
 ### 🚀 Selected Work
 
-- **🏢 Addis Condo Finder** — crowdsourced Flutter app for locating condominium blocks across Addis Ababa, backed by a unified Laravel REST API + Filament moderation system. → 🌍 [Live Demo](https://condominiumfinder.aduu.org) · [📱 Mobile/Web Source](https://github.com/fuad745/condominium_finder) · [⚙️ Server & Panel Source](https://github.com/fuad745/condominium_finder_server)
-- **🎰 LuckyDraw** — production Telegram Mini App lottery built with Laravel 13 + Livewire 4. Features integer-cent money math, atomic row-locked transactions (), 22 automated test suites, and Telebirr/CBE payment verification. → 🎮 Play it: [@Laklottery_bot](https://t.me/Laklottery_bot) · [💻 Source](https://github.com/fuad745/luckydraw-lottery)
-- **💰 Money Manager** — offline-first Flutter personal-finance app with Riverpod, SQLite (), biometric/PIN lock, debt tracking, and spending analytics. → [💻 Source](https://github.com/fuad745/money-manager)
+- **🏢 Addis Condo Finder** — crowdsourced Flutter app for locating condominium blocks across Addis Ababa, backed by a unified Laravel REST API + Filament moderation system. → 🌍 [Live Demo](https://condominiumfinder.aduu.org) · [📱 Mobile/Web App Source](https://github.com/fuad745/condominium_finder) · [⚙️ Server & Panel Source](https://github.com/fuad745/condominium_finder_server)
+- **🎰 LuckyDraw** — production Telegram Mini App lottery built with Laravel 13 + Livewire 4. Features integer-cent money math, atomic row-locked transactions (`lockForUpdate`), 22 automated test suites, and Telebirr/CBE payment verification. → 🎮 Play it: [@Laklottery_bot](https://t.me/Laklottery_bot) · [💻 Source](https://github.com/fuad745/luckydraw-lottery)
+- **💰 Money Manager** — offline-first Flutter personal-finance app with Riverpod, SQLite (`sqflite`), biometric/PIN lock, debt tracking, and spending analytics. → [💻 Source](https://github.com/fuad745/money-manager)
 - **🏭 Bicmakh Pharmaceutical** — a Laravel pharma supply-chain system with inventory forecasting, batch tracking, and order automation. → [bicmakh.com](https://bicmakh.com/)
 - **📊 AduuTech** — business operations platform handling 1,000+ daily transactions with real-time tracking and automated invoicing. → [aduu.org](https://aduu.org/) · [Inventory Source](https://github.com/fuad745/aduutech-stock-management)
 
