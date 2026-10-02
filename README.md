@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  I build cross-platform apps and the backends that power them — mobile clients in Flutter,
-  REST APIs and admin panels in Laravel, and Telegram Mini Apps end to end.
+  I build cross-platform mobile apps in Flutter, high-reliability REST APIs and admin panels in Laravel,
+  and production Telegram Mini Apps end to end.
 </p>
 
 <p align="center">
@@ -33,25 +33,21 @@
 
 ---
 
-### 🚀 Selected work
+### 🚀 Selected Work
 
-- **🎰 LuckyDraw** — a full-stack Telegram Mini App lottery in Laravel 13 + Livewire 4. Integer-cents money math, atomic row-locked draws, bilingual EN/አማርኛ, deploys on plain shared hosting. → 🎮 Play it: [@Laklottery_bot](https://t.me/Laklottery_bot) · [source](https://github.com/fuad745/luckydraw-lottery)
-- **🏢 Addis Condo Finder** — a crowdsourced Flutter app for finding condo blocks inside Addis Ababa's big condominium projects, backed by one Laravel app (REST API + Filament moderation panel). → 🌍 Live demo: [condominiumfinder.aduu.org](https://condominiumfinder.aduu.org)
-- **💰 Money Manager** — a polished offline-first Flutter personal-finance app: net worth, debts, upcoming bills, savings goals and stats. → [source](https://github.com/fuad745/money-manager)
-- **🏭 Bicmakh Pharmaceutical** — a Laravel pharma supply-chain system with inventory forecasting, batch tracking and order automation. → [bicmakh.com](https://bicmakh.com/)
-- **📊 AduuTech** — a Laravel + React operations platform handling 1,000+ daily transactions with real-time tracking and automated invoicing. → [aduu.org](https://aduu.org/) · [inventory system source](https://github.com/fuad745/aduutech-stock-management)
+- **🏢 Addis Condo Finder** — crowdsourced Flutter app for locating condominium blocks across Addis Ababa, backed by a unified Laravel REST API + Filament moderation system. → 🌍 [Live Demo](https://condominiumfinder.aduu.org) · [📱 Mobile/Web Source](https://github.com/fuad745/condominium_finder) · [⚙️ Server & Panel Source](https://github.com/fuad745/condominium_finder_server)
+- **🎰 LuckyDraw** — production Telegram Mini App lottery built with Laravel 13 + Livewire 4. Features integer-cent money math, atomic row-locked transactions (), 22 automated test suites, and Telebirr/CBE payment verification. → 🎮 Play it: [@Laklottery_bot](https://t.me/Laklottery_bot) · [💻 Source](https://github.com/fuad745/luckydraw-lottery)
+- **💰 Money Manager** — offline-first Flutter personal-finance app with Riverpod, SQLite (), biometric/PIN lock, debt tracking, and spending analytics. → [💻 Source](https://github.com/fuad745/money-manager)
+- **🏭 Bicmakh Pharmaceutical** — a Laravel pharma supply-chain system with inventory forecasting, batch tracking, and order automation. → [bicmakh.com](https://bicmakh.com/)
+- **📊 AduuTech** — business operations platform handling 1,000+ daily transactions with real-time tracking and automated invoicing. → [aduu.org](https://aduu.org/) · [Inventory Source](https://github.com/fuad745/aduutech-stock-management)
 
-🌱 *Currently going deep on Laravel 13 and Filament, and shipping Telegram Mini Apps.*
+🌱 *Open to full-stack, mobile (Flutter), and backend (Laravel) software engineering roles.*
 
-> 🔗 See the full story on my portfolio → **[fuad-portfolio-rose.vercel.app](https://fuad-portfolio-rose.vercel.app)**
+> 🔗 Visit full portfolio → **[fuad-portfolio-rose.vercel.app](https://fuad-portfolio-rose.vercel.app)**
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fuad745&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuad745&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <i>💞️ Open to collaborating on Flutter &amp; Laravel projects.</i>
 </p>
